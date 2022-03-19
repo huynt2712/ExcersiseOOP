@@ -1,0 +1,14 @@
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\bin\Debug\netcoreapp3.1\ProjectOOP.deps.json
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\bin\Debug\netcoreapp3.1\ProjectOOP.dll
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\bin\Debug\netcoreapp3.1\ProjectOOP.pdb
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\obj\Debug\netcoreapp3.1\ProjectOOP.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\obj\Debug\netcoreapp3.1\ProjectOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\obj\Debug\netcoreapp3.1\ProjectOOP.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\obj\Debug\netcoreapp3.1\ProjectOOP.AssemblyInfo.cs
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\obj\Debug\netcoreapp3.1\ProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\obj\Debug\netcoreapp3.1\ProjectOOP.dll
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\obj\Debug\netcoreapp3.1\ProjectOOP.pdb
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\bin\Debug\netcoreapp3.1\ProjectOOP.exe
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\bin\Debug\netcoreapp3.1\ProjectOOP.runtimeconfig.json
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\bin\Debug\netcoreapp3.1\ProjectOOP.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\ProjectOOP\ProjectOOP\obj\Debug\netcoreapp3.1\ProjectOOP.genruntimeconfig.cache
