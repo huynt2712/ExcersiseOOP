@@ -7,6 +7,8 @@ namespace ProjectOOP
     public class Experience : Employee,ISendMail
     {
         public List<string>InformationExperience { get; set; }
+        public int Experienceyear { get; set; }
+        public List<string> Skills { get; set; }
         public override void GetInformation()
         {
             Console.WriteLine($"Information Experience: {String.Join(", ", InformationExperience)}");

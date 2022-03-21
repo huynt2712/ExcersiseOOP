@@ -7,6 +7,9 @@ namespace ProjectOOP
     class Intern:Employee,ISendMail
     {
         public List<string> InformationInter { get; set; }
+        public string Specialized { get; set; }
+        public int Semester { get; set; }
+        public string University { get; set; }
         public override void GetInformation()
         {
             Console.WriteLine($"Information Inter: {String.Join(", ", InformationInter)}");

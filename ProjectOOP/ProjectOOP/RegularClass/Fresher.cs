@@ -7,6 +7,10 @@ namespace ProjectOOP
     class Fresher:Employee,ISendMail
     {
         public List<string> InformationFresher { get; set; }
+        public int Graduationtime { get; set; }
+        public string Graduationtyle { get; set; }
+        public int Semester { get; set; }
+        public string University { get; set; }
         public override void GetInformation()
         {
             Console.WriteLine($"Information Fresher: {String.Join(", ", InformationFresher)}");

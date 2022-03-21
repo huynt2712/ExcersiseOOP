@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thanh\\source\\repos\\ProjectOOP\\ProjectOOP\\ProjectOOP.csproj",
+      "projectUniqueName": "C:\\Users\\thanh\\Desktop\\ExcersiseOOP\\ProjectOOP\\ProjectOOP\\ProjectOOP.csproj",
       "projectName": "ProjectOOP",
-      "projectPath": "C:\\Users\\thanh\\source\\repos\\ProjectOOP\\ProjectOOP\\ProjectOOP.csproj",
+      "projectPath": "C:\\Users\\thanh\\Desktop\\ExcersiseOOP\\ProjectOOP\\ProjectOOP\\ProjectOOP.csproj",
       "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thanh\\source\\repos\\ProjectOOP\\ProjectOOP\\obj\\",
+      "outputPath": "C:\\Users\\thanh\\Desktop\\ExcersiseOOP\\ProjectOOP\\ProjectOOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
